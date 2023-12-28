@@ -2,4 +2,3 @@
 const coba = require('./coba');
 
 console.log(coba);
-// console.log(cetakNama('iqbal'));
