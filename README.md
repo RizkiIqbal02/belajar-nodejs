@@ -1,3 +1,7 @@
 # Progress Belajar NodeJS
 
-NodeJS menganut system module yang mengharuskan kita meng export dan require module, bisa di ibaratkan file yang kita buat itu sebagai modules yang harus kita require ketika kita butuhkan
+Mencoba core module atau Module bawaan dari nodejs, mencoba cara menggunakannya dan juga mencoba me require module nya, module yang di pakai :
+
+- readfile
+- writefileSync & async
+- mkdirsync

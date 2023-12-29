@@ -1,0 +1,1 @@
+Halooooo ini ditulis pake nodejs secara asynchronous
